@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Arroz 5kg",
+      "price": 19.99,
+      "supermarket": "Supermercado A"
+    },
+    {
+      "id": 2,
+      "name": "Feijão 1kg",
+      "price": 6.50,
+      "supermarket": "Supermercado B"
+    },
+    {
+      "id": 3,
+      "name": "Óleo de Soja 900ml",
+      "price": 7.49,
+      "supermarket": "Supermercado C"
+    }
+  ]
+  

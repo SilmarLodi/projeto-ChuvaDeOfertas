@@ -1,0 +1,12 @@
+[
+  {
+      "name": "Arroz 5kg",
+      "price": 19.99,
+      "store": "Supermercado A"
+  },
+  {
+      "name": "Feijão 1kg",
+      "price": 8.49,
+      "store": "Supermercado B"
+  }
+]
